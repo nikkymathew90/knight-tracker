@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/knight-tracker/static/css/main.9016ac81.chunk.css",
+    "main.js": "/knight-tracker/static/js/main.bce7692a.chunk.js",
+    "main.js.map": "/knight-tracker/static/js/main.bce7692a.chunk.js.map",
+    "runtime-main.js": "/knight-tracker/static/js/runtime-main.8a16053e.js",
+    "runtime-main.js.map": "/knight-tracker/static/js/runtime-main.8a16053e.js.map",
+    "static/js/2.91974883.chunk.js": "/knight-tracker/static/js/2.91974883.chunk.js",
+    "static/js/2.91974883.chunk.js.map": "/knight-tracker/static/js/2.91974883.chunk.js.map",
+    "index.html": "/knight-tracker/index.html",
+    "precache-manifest.220696492cf96b584b0ebf7d5914150b.js": "/knight-tracker/precache-manifest.220696492cf96b584b0ebf7d5914150b.js",
+    "service-worker.js": "/knight-tracker/service-worker.js",
+    "static/css/main.9016ac81.chunk.css.map": "/knight-tracker/static/css/main.9016ac81.chunk.css.map",
+    "static/js/2.91974883.chunk.js.LICENSE.txt": "/knight-tracker/static/js/2.91974883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a16053e.js",
+    "static/js/2.91974883.chunk.js",
+    "static/css/main.9016ac81.chunk.css",
+    "static/js/main.bce7692a.chunk.js"
+  ]
+}
